@@ -57,7 +57,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-notifications-list](screens/notifications)
 - [screen-notifications-preference](screens/notifications-preference)
-- [react-native-login](modules/login)
 - [screen-add-card-details](screens/add-card-details)
 - [screen-wallet](screens/wallet)
 
