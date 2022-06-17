@@ -1243,7 +1243,10 @@
 "@screens/add-card-details@file:./screens/add-card-details":
   version "1.0.0"
 
-"@screens/login@file:./screens/login/":
+"@screens/forgot-password@file:./screens/forgot-password/":
+  version "1.0.0"
+
+"@screens/login@file:./screens/login":
   version "1.0.0"
 
 "@screens/notifications-preference@file:./screens/notifications-preference":

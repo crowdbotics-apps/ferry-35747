@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-settings](screens/settings)
 - [screen-profile](screens/profile)
 - [screen-login](screens/login)
+- [screen-forgot-password](screens/forgot-password)
 
 # Getting started: Frontend
 
