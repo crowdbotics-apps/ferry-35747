@@ -23,6 +23,7 @@
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/wallet": "file:./screens/wallet/",
+    "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
