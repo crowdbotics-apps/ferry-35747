@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-add-card-details](screens/add-card-details)
 - [screen-wallet](screens/wallet)
 - [screen-signup](screens/signup)
+- [react-native-social-login](modules/social-login)
 
 # Getting started: Frontend
 
