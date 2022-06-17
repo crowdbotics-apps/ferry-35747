@@ -19,6 +19,7 @@
     "@screens/add-card-details": "file:./screens/add-card-details/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
+    "@screens/signup": "file:./screens/signup/",
     "@screens/wallet": "file:./screens/wallet/",
     "axios": "^0.21.1",
     "react": "17.0.1",

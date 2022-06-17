@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-notifications-preference](screens/notifications-preference)
 - [screen-add-card-details](screens/add-card-details)
 - [screen-wallet](screens/wallet)
+- [screen-signup](screens/signup)
 
 # Getting started: Frontend
 
