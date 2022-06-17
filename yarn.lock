@@ -1252,10 +1252,13 @@
 "@screens/signup@file:./screens/signup":
   version "1.0.0"
 
+"@screens/social-feed@file:./screens/social-feed/":
+  version "1.0.0"
+
 "@screens/wallet@file:./screens/wallet":
   version "1.0.0"
 
-"@screens/welcome@file:./screens/welcome/":
+"@screens/welcome@file:./screens/welcome":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

@@ -22,6 +22,7 @@
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/signup": "file:./screens/signup/",
+    "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/wallet": "file:./screens/wallet/",
     "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
