@@ -21,6 +21,7 @@
     "@screens/add-card-details": "file:./screens/add-card-details/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
+    "@screens/settings": "file:./screens/settings/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/social-followers": "file:./screens/social-followers/",
