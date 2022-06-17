@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-welcome](screens/welcome)
 - [screen-social-feed](screens/social-feed)
 - [screen-social-followers](screens/social-followers)
+- [screen-social-profile](screens/social-profile)
 
 # Getting started: Frontend
 

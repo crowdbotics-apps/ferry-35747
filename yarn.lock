@@ -1255,7 +1255,10 @@
 "@screens/social-feed@file:./screens/social-feed":
   version "1.0.0"
 
-"@screens/social-followers@file:./screens/social-followers/":
+"@screens/social-followers@file:./screens/social-followers":
+  version "1.0.0"
+
+"@screens/social-profile@file:./screens/social-profile/":
   version "1.0.0"
 
 "@screens/wallet@file:./screens/wallet":

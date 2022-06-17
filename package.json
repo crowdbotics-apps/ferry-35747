@@ -24,6 +24,7 @@
     "@screens/signup": "file:./screens/signup/",
     "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/social-followers": "file:./screens/social-followers/",
+    "@screens/social-profile": "file:./screens/social-profile/",
     "@screens/wallet": "file:./screens/wallet/",
     "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
